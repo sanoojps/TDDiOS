@@ -7,6 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D31DF8E71FB8CCD100B3E791 /* Question.swift in Sources */ = {isa = PBXBuildFile; fileRef = D31DF8E61FB8CCD100B3E791 /* Question.swift */; };
+		D31DF8E91FB8CD2F00B3E791 /* QuestionTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D31DF8E81FB8CD2F00B3E791 /* QuestionTests.swift */; };
+		D31DF8EB1FB8D40300B3E791 /* Person.swift in Sources */ = {isa = PBXBuildFile; fileRef = D31DF8EA1FB8D40300B3E791 /* Person.swift */; };
+		D31DF8EE1FB8D66D00B3E791 /* PersonTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D31DF8EC1FB8D41A00B3E791 /* PersonTests.swift */; };
 		D3E365C51FB80A2600F5BBA4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3E365C41FB80A2600F5BBA4 /* AppDelegate.swift */; };
 		D3E365C71FB80A2600F5BBA4 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3E365C61FB80A2600F5BBA4 /* ViewController.swift */; };
 		D3E365CA1FB80A2600F5BBA4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D3E365C81FB80A2600F5BBA4 /* Main.storyboard */; };
@@ -14,6 +18,9 @@
 		D3E365CF1FB80A2600F5BBA4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D3E365CD1FB80A2600F5BBA4 /* LaunchScreen.storyboard */; };
 		D3E365DA1FB80A2600F5BBA4 /* TDDiOSTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3E365D91FB80A2600F5BBA4 /* TDDiOSTests.swift */; };
 		D3E365E51FB80A2600F5BBA4 /* TDDiOSUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3E365E41FB80A2600F5BBA4 /* TDDiOSUITests.swift */; };
+		D3E365F31FB80A7600F5BBA4 /* Addison.Wesley.Test-Driven.iOS.Development-www.gocit.vn.pdf in Resources */ = {isa = PBXBuildFile; fileRef = D3E365F21FB80A7600F5BBA4 /* Addison.Wesley.Test-Driven.iOS.Development-www.gocit.vn.pdf */; };
+		D3E365F51FB80A9E00F5BBA4 /* Topic.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3E365F41FB80A9E00F5BBA4 /* Topic.swift */; };
+		D3E365F71FB80ABE00F5BBA4 /* TopicTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3E365F61FB80ABE00F5BBA4 /* TopicTests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +41,10 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		D31DF8E61FB8CCD100B3E791 /* Question.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Question.swift; sourceTree = "<group>"; };
+		D31DF8E81FB8CD2F00B3E791 /* QuestionTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuestionTests.swift; sourceTree = "<group>"; };
+		D31DF8EA1FB8D40300B3E791 /* Person.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Person.swift; sourceTree = "<group>"; };
+		D31DF8EC1FB8D41A00B3E791 /* PersonTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PersonTests.swift; sourceTree = "<group>"; };
 		D3E365C11FB80A2600F5BBA4 /* TDDiOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TDDiOS.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D3E365C41FB80A2600F5BBA4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D3E365C61FB80A2600F5BBA4 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -47,6 +58,9 @@
 		D3E365E01FB80A2600F5BBA4 /* TDDiOSUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TDDiOSUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D3E365E41FB80A2600F5BBA4 /* TDDiOSUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TDDiOSUITests.swift; sourceTree = "<group>"; };
 		D3E365E61FB80A2600F5BBA4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D3E365F21FB80A7600F5BBA4 /* Addison.Wesley.Test-Driven.iOS.Development-www.gocit.vn.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Addison.Wesley.Test-Driven.iOS.Development-www.gocit.vn.pdf"; sourceTree = "<group>"; };
+		D3E365F41FB80A9E00F5BBA4 /* Topic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Topic.swift; sourceTree = "<group>"; };
+		D3E365F61FB80ABE00F5BBA4 /* TopicTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TopicTests.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +88,16 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		D31DF8E31FB8C8D600B3E791 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				D3E365F41FB80A9E00F5BBA4 /* Topic.swift */,
+				D31DF8E61FB8CCD100B3E791 /* Question.swift */,
+				D31DF8EA1FB8D40300B3E791 /* Person.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
 		D3E365B81FB80A2600F5BBA4 = {
 			isa = PBXGroup;
 			children = (
@@ -97,8 +121,10 @@
 		D3E365C31FB80A2600F5BBA4 /* TDDiOS */ = {
 			isa = PBXGroup;
 			children = (
+				D3E365F21FB80A7600F5BBA4 /* Addison.Wesley.Test-Driven.iOS.Development-www.gocit.vn.pdf */,
 				D3E365C41FB80A2600F5BBA4 /* AppDelegate.swift */,
 				D3E365C61FB80A2600F5BBA4 /* ViewController.swift */,
+				D31DF8E31FB8C8D600B3E791 /* Model */,
 				D3E365C81FB80A2600F5BBA4 /* Main.storyboard */,
 				D3E365CB1FB80A2600F5BBA4 /* Assets.xcassets */,
 				D3E365CD1FB80A2600F5BBA4 /* LaunchScreen.storyboard */,
@@ -110,8 +136,11 @@
 		D3E365D81FB80A2600F5BBA4 /* TDDiOSTests */ = {
 			isa = PBXGroup;
 			children = (
-				D3E365D91FB80A2600F5BBA4 /* TDDiOSTests.swift */,
 				D3E365DB1FB80A2600F5BBA4 /* Info.plist */,
+				D3E365D91FB80A2600F5BBA4 /* TDDiOSTests.swift */,
+				D3E365F61FB80ABE00F5BBA4 /* TopicTests.swift */,
+				D31DF8E81FB8CD2F00B3E791 /* QuestionTests.swift */,
+				D31DF8EC1FB8D41A00B3E791 /* PersonTests.swift */,
 			);
 			path = TDDiOSTests;
 			sourceTree = "<group>";
@@ -233,6 +262,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D3E365CF1FB80A2600F5BBA4 /* LaunchScreen.storyboard in Resources */,
+				D3E365F31FB80A7600F5BBA4 /* Addison.Wesley.Test-Driven.iOS.Development-www.gocit.vn.pdf in Resources */,
 				D3E365CC1FB80A2600F5BBA4 /* Assets.xcassets in Resources */,
 				D3E365CA1FB80A2600F5BBA4 /* Main.storyboard in Resources */,
 			);
@@ -260,7 +290,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				D3E365C71FB80A2600F5BBA4 /* ViewController.swift in Sources */,
+				D31DF8E71FB8CCD100B3E791 /* Question.swift in Sources */,
+				D3E365F51FB80A9E00F5BBA4 /* Topic.swift in Sources */,
 				D3E365C51FB80A2600F5BBA4 /* AppDelegate.swift in Sources */,
+				D31DF8EB1FB8D40300B3E791 /* Person.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -269,6 +302,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				D3E365DA1FB80A2600F5BBA4 /* TDDiOSTests.swift in Sources */,
+				D3E365F71FB80ABE00F5BBA4 /* TopicTests.swift in Sources */,
+				D31DF8EE1FB8D66D00B3E791 /* PersonTests.swift in Sources */,
+				D31DF8E91FB8CD2F00B3E791 /* QuestionTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

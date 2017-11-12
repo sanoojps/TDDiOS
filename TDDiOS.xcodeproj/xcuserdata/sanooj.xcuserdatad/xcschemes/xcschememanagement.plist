@@ -4,10 +4,33 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>TDDiOS-TopicTests.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 		<key>TDDiOS.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>D3E365C01FB80A2600F5BBA4</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D3E365D41FB80A2600F5BBA4</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D3E365DF1FB80A2600F5BBA4</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
